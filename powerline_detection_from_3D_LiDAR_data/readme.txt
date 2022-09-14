@@ -29,6 +29,6 @@
     						prediction. you must  give the filename to predict without extension in the main.
                                     It will then automatically adjust training and test data. 
              
-             *LayeredHoughTransformOpenCV : Make sure you have xgboost prediction before running this file. 
+             *LayeredHoughTransformOpenCV : Hough Transform postprocessing, you need to  have xgboost prediction before running this file. 
 
  
